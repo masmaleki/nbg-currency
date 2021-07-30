@@ -34,7 +34,7 @@ class NbgCurrency
         'KGS', 'KWD', 'KZT', 'LTL', 'LVL', 'MDL', 'NOK', 'NZD', 'PLN', 'RON', 'RSD',
         'RUB', 'SEK', 'SGD', 'TJS', 'TMT', 'TRY', 'UAH', 'USD', 'UZS',
     ];
-    
+
     /**
      * @var array List of fluent methods
      */
@@ -83,10 +83,10 @@ class NbgCurrency
      * @param  string $currency Currency
      * @return double Currency rate
      */
-    public static function rate($currency)
+    public static function rate($currencies)
     {
         self::checkClient();
-        return (double) self::$client->GetCurrency(self::transformToValidCurrency($currency));
+        return  self::$client->GetCurrentRates(array('Currencies'=>$currencies));
     }
 
     /**
