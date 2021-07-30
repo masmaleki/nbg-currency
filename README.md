@@ -1,6 +1,6 @@
 # NBG Currency
 
-[![Build Status](https://travis-ci.org/Stichoza/nbg-currency.svg?branch=master)](https://travis-ci.org/Stichoza/nbg-currency) [![Latest Stable Version](https://img.shields.io/packagist/v/Stichoza/nbg-currency.svg)](https://packagist.org/packages/stichoza/nbg-currency) [![Total Downloads](https://img.shields.io/packagist/dt/Stichoza/nbg-currency.svg)](https://packagist.org/packages/stichoza/nbg-currency)
+[![Build Status](https://travis-ci.org/Masmaleki/nbg-currency.svg?branch=master)](https://travis-ci.org/Stichoza/nbg-currency) [![Latest Stable Version](https://img.shields.io/packagist/v/Stichoza/nbg-currency.svg)](https://packagist.org/packages/masmaleki/nbg-currency) [![Total Downloads](https://img.shields.io/packagist/dt/Stichoza/nbg-currency.svg)](https://packagist.org/packages/stichoza/nbg-currency)
 
 National Bank of Georgia (NBG) currency service API wrapper in PHP
 
@@ -16,10 +16,10 @@ composer require stichoza/nbg-currency
 
 ## Usage
 
-The class is namespaced as `Stichoza\NbgCurrency\NbgCurrency`, so use it like
+The class is namespaced as `Masmaleki\NbgCurrency\NbgCurrency`, so use it like
 
 ```php
-use Stichoza\NbgCurrency\NbgCurrency;
+use Masmaleki\NbgCurrency\NbgCurrency;
 ```
 
 This package is very easy to use and has a few methods. **Keep in mind that method names are not same as NBG's SOAP service.** This package has more intuitive method names.

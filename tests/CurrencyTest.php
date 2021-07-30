@@ -1,9 +1,9 @@
 <?php
-namespace Stichoza\NbgCurrency\Tests;
+namespace Masmaleki\NbgCurrency\Tests;
 
 use BadMethodCallException;
 use Carbon\Carbon;
-use Stichoza\NbgCurrency\NbgCurrency;
+use Masmaleki\NbgCurrency\NbgCurrency;
 
 class CurrencyTest extends \PHPUnit_Framework_TestCase
 {

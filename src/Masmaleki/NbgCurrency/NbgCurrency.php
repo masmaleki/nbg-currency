@@ -1,6 +1,6 @@
 <?php
 
-namespace Stichoza\NbgCurrency;
+namespace Masmaleki\NbgCurrency;
 
 use BadMethodCallException;
 use Carbon\Carbon;
@@ -23,7 +23,7 @@ class NbgCurrency
     /**
      * @var string WSDL address
      */
-    private static $wsdl = 'http://nbg.gov.ge/currency.wsdl';
+    private static $wsdl = 'https://services.nbg.gov.ge/Rates/Service.asmx?wsdl';
 
     /**
      * @var array List of all supported currencies
