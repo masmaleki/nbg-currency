@@ -1,6 +1,6 @@
 # NBG Currency
 
-[![Build Status](https://travis-ci.org/Masmaleki/nbg-currency.svg?branch=master)](https://travis-ci.org/Stichoza/nbg-currency) [![Latest Stable Version](https://img.shields.io/packagist/v/Stichoza/nbg-currency.svg)](https://packagist.org/packages/masmaleki/nbg-currency) [![Total Downloads](https://img.shields.io/packagist/dt/Stichoza/nbg-currency.svg)](https://packagist.org/packages/stichoza/nbg-currency)
+[![Build Status](https://travis-ci.org/Masmaleki/nbg-currency.svg?branch=master)](https://travis-ci.org/Masmaleki/nbg-currency) [![Latest Stable Version](https://img.shields.io/packagist/v/Masmaleki/nbg-currency.svg)](https://packagist.org/packages/masmaleki/nbg-currency) [![Total Downloads](https://img.shields.io/packagist/dt/Masmaleki/nbg-currency.svg)](https://packagist.org/packages/Masmaleki/nbg-currency)
 
 National Bank of Georgia (NBG) currency service API wrapper in PHP with new wsdl service
 
