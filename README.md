@@ -66,4 +66,4 @@ NbgCurrency::isSupported('lol'); // false
 
 > ლარის კურსი, ეროვნული ბანკის გაცვლითი კურსი, ვალუტა, ლარის ვალუტის კურსი, laris kursi, laris valuta, lari currency, national bank of georgia, nbg
 ### Thank you 
->Thank you of Levan Velijanashvili Nbg-Currency Package "Stichoza/nbg-currency"
+>Thanks of Levan Velijanashvili Nbg-Currency Package "Stichoza/nbg-currency"
